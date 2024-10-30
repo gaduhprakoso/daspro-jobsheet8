@@ -9,7 +9,7 @@ public class RataNilai10 {
 
         i = 1;
         while (1 <= 5) {
-            System.out.println("Input Nilai Mahasiswa ke-" + 1);
+            System.out.println("Input Nilai Mahasiswa ke-" + i);
             totalNilai = 0;
             for (j = 1; j <= 5; j++) {
                 System.out.print("nilai ke-" + j + " = ");
