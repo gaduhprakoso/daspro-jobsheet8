@@ -8,7 +8,7 @@ public class RataNilai10 {
         float nilai, totalNilai, rataNilai;
 
         i = 1;
-        while (1 <= 5) {
+        while (i <= 5) {
             System.out.println("Input Nilai Mahasiswa ke-" + i);
             totalNilai = 0;
             for (j = 1; j <= 5; j++) {
